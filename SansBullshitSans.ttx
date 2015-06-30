@@ -24135,6 +24135,12 @@
               <Ligature components="O,I" glyph="uniE602"/>
 
             </LigatureSet>
+            
+            <LigatureSet glyph="3">
+
+              <Ligature components="1,5,space,m,a,r,c,h,e,s" glyph="uniE602"/>
+
+            </LigatureSet>
 
             <LigatureSet glyph="a">
 
